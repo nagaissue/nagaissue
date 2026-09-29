@@ -1,7 +1,5 @@
-# nagaissue
+# About me
 
-## About me
+## My hobbies
 
-### Hobbies
-
-[![AWS](https://skillicons.dev/icons?i=ai,aws,github,html,linux,md,vim)](https://skillicons.dev)
+[![My hobbies](https://skillicons.dev/icons?i=aws,git,github,html,linux)](https://skillicons.dev)
