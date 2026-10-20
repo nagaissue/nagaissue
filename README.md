@@ -1,12 +1,15 @@
 # About me
 
-## Hobbies
+## Skills
 
-[![My hobbies](https://skillicons.dev/icons?i=git,github,aws,html,linux,windows,unity,vscode,obsidian,vercel)](https://skillicons.dev)
+### Language
+[![My hobbies](https://skillicons.dev/icons?i=html,md)](https://skillicons.dev)
+### Software
+[![My hobbies](https://skillicons.dev/icons?i=git,unity,vim,vscode)](https://skillicons.dev)
+### Platform
+[![My hobbies](https://skillicons.dev/icons?i=aws,github)](https://skillicons.dev)
 
 ## Try learning
-
-## Skills
 
 [![My hobbies](https://skillicons.dev/icons?i=linux,windows,c,cpp,php,python,git,github,html,css,raspberrypi,sqlite,md,emacs,vim)](https://skillicons.dev)
 
