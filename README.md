@@ -1,4 +1,4 @@
-# Nagaissue's Skills
+# Nagaissue's skills
 
 ## 息をするように使ってるやつ
 
