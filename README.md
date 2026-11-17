@@ -18,4 +18,4 @@
 
 ## Challenges(チャレンジしたい)
 
-[![JavaScript, Docker](https://skillicons.dev/icons?i=js,rust,docker)](https://skillicons.dev)
+[![JavaScript, Docker](https://skillicons.dev/icons?i=js,docker)](https://skillicons.dev)
